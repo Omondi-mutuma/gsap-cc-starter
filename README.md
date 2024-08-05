@@ -5,10 +5,10 @@ This template provides a minimal setup to get GSAP (GreenSock Animations Platfor
 # Getting started
 
 To install required dependencies run:
-`npm install'
+`npm install`
 
 Run development server:
-'npm run dev'
+`npm run dev`
 
 Happy Coding!!!
 
